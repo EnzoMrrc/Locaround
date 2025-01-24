@@ -22,6 +22,8 @@ Depending on what you wanna do, we suggest you some activities that you can do a
 
 ## Main library used
 
+- Geoserver
+- Graphhopper
 - 
 
 ## Made by
